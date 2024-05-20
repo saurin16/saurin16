@@ -1,11 +1,8 @@
-Based on the information from your resume, here's a customized GitHub README for your profile:
-
----
 
 # Hi there, I'm Saurin Patel 👋
 
 ![GitHub followers](https://img.shields.io/github/followers/saurin16?label=Follow&style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitterhandle?label=Follow&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/Saurin68943842?label=Follow&style=social)
 
 Welcome to my GitHub profile! I'm a passionate software developer and data scientist with a strong foundation in computer science and a focus on machine learning, web development, and cloud technologies.
 
