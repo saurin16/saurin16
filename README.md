@@ -26,33 +26,6 @@ Here are some of the technologies and tools I work with:
 - **Web Development:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white), ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white), ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white), ![React.js](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=white)
 - **Tools and Skills:** CI/CD, JIRA, Machine Learning, Tableau, Project Management, Interpersonal, Presentation, Business and Financial acumen
 
-## Projects
-
-Here are some of the projects I've been working on:
-
-### [E-Commerce Website](https://ecommerce-endto-end-react-firebase.vercel.app/login)
-Led the development of essential features like product display, cart system, and purchase handling while incorporating bonus features such as a user-friendly UI using ReactJs and Firebase integration for enhanced data management.
-
-### [Plant Disease Classifier](https://github.com/saurin16/Plantdiseaseclassifier/tree/main/Output%20images)
-Developed an image processing model utilizing Convolutional Neural Networks (CNNs) with TensorFlow/Keras, OpenCV, NumPy, Pandas, Matplotlib, and data augmentation to classify processed leaf images into potato early blight and late blight categories.
-
-### [University Prediction System](https://github.com/saurin16/UniversityPredictionSystem)
-Conducted comprehensive data analysis on a dataset encompassing over a thousand students, employing Python libraries including NumPy, Pandas, Matplotlib, and Scikit-learn. Utilized supervised learning algorithms such as logistic regression to predict university admissions based on various factors.
-
-### [Placement Management System App](https://github.com/saurin16/Placement_Management_system)
-Crafted a Placement Management System App with Java, JDBC, Swing GUI, and Core Java to enable seamless interaction between students and companies.
-
-## Experience
-
-### Research Intern, University Of Naples Italy
-- Spearheaded the data preprocessing phase, ensuring the quality and relevance of input data for the CNN model.
-- Implemented a region-based training and verification approach for a Land Use and Land Cover Classification project, achieving 92.9% accuracy.
-
-### Machine Learning Intern, Shah And Anchor
-- Conducted an in-depth analysis that improved brain tumor identification accuracy to 89.2% using YOLOv7 model and technologies like Python, TensorFlow, and OpenCV.
-
-### Web Developer and Quality Assurance Intern, MoPharma Solutions Ltd
-- Executed hands-on testing on a live website, meticulously crafting test cases using Selenium, and promptly reporting and tracking identified bugs.
 
 ## Publications
 
@@ -68,8 +41,3 @@ Feel free to reach out if you want to collaborate on projects or just chat about
 - [Personal Website](https://saurin16.github.io/saurinpatel.github.io/)
 - [Email](mailto:spatel213@hawk.iit.edu)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=saurin16.saurin16)
-
----
-
-Feel free to customize this further based on your preferences and any additional details you'd like to include!
