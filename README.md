@@ -11,7 +11,6 @@ Welcome to my GitHub profile! I'm a passionate software developer and data scien
 - 🔭 I’m currently working on enhancing my skills in advanced machine learning techniques and cloud-based solutions.
 - 🌱 I’m currently learning advanced data analysis and machine learning algorithms.
 - 👯 I’m looking to collaborate on open-source projects related to web development, machine learning, and cloud computing.
-- 🤔 I’m looking for help with improving my DevOps skills and CI/CD pipeline implementations.
 - 💬 Ask me about machine learning, web development, and project management.
 - 📫 How to reach me: spatel213@hawk.iit.edu
 - ⚡ Fun fact: I have led teams and managed projects both academically and professionally, participating in various technical events and hackathons.
