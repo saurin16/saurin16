@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and data scien
 - 🌱 I’m currently learning advanced data analysis and machine learning algorithms.
 - 👯 I’m looking to collaborate on open-source projects related to web development, machine learning, and cloud computing.
 - 💬 Ask me about machine learning, web development, and project management.
-- 📫 How to reach me: spatel213@hawk.iit.edu
+- 📫 How to reach me: patelsaurin2002@gmail.com 
 - ⚡ Fun fact: I have led teams and managed projects both academically and professionally, participating in various technical events and hackathons.
 
 ## Skills
